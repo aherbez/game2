@@ -1,0 +1,44 @@
+(footprint "X2-DFN2015-3" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 37d051cb-49cd-417e-ae4c-3effa6c3ae78)
+  )
+  (fp_text value "X2-DFN2015-3" (at 0 2) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 33a06bde-82d8-4dbf-939d-e4c33b5d319b)
+  )
+  (fp_poly
+    (pts
+      (xy 0.6 0.4)
+      (xy -0.6 0.4)
+      (xy -0.6 -0.45)
+      (xy 0.6 -0.45)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Cu") (tstamp 9338111a-f70e-4c99-a443-48624b8d4682))
+  (fp_poly
+    (pts
+      (xy 0.6 0.4)
+      (xy -0.6 0.4)
+      (xy -0.6 -0.45)
+      (xy 0.6 -0.45)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Paste") (tstamp 2038c7d9-565a-44fd-97c7-c6ec4bf779a1))
+  (fp_circle (center -1.25 1) (end -1.138197 1)
+    (stroke (width 0.25) (type solid)) (fill none) (layer "F.SilkS") (tstamp d6379d01-9ba7-43db-a0cb-0d076d02e3ae))
+  (fp_poly
+    (pts
+      (xy 0.6 0.4)
+      (xy -0.6 0.4)
+      (xy -0.6 -0.45)
+      (xy 0.6 -0.45)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.Mask") (tstamp 06b0ddff-335d-4f04-8314-7d14661f0dad))
+  (pad "1" smd rect (at -0.5 0.9) (size 0.31 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a7ed5b6b-224d-4adb-896e-114b04090965))
+  (pad "2" smd rect (at 0.5 0.9) (size 0.31 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9ff24f78-e7bd-4da2-9719-cb93949f1265))
+  (pad "3" smd rect (at 0 -0.825) (size 0.31 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 826606c9-b9c0-4388-8810-2f499db1eb7c))
+)
