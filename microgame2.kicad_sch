@@ -6935,102 +6935,6 @@
 		)
 	)
 	(sheet
-		(at 67.31 43.18)
-		(size 40.64 6.35)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a")
-		(property "Sheetname" "Power3"
-			(at 67.31 42.4684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "power.kicad_sch"
-			(at 67.31 50.1146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "Foo" input
-			(at 91.44 49.53 270)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "39df6b57-dd02-43a7-9f0a-ffc07889c3e6")
-		)
-		(instances
-			(project "microgame2"
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 67.31 31.75)
-		(size 40.64 6.35)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "329e0230-107d-464b-9953-d531477270e7")
-		(property "Sheetname" "Power2"
-			(at 67.31 31.0384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "power.kicad_sch"
-			(at 67.31 38.6846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "Foo" input
-			(at 67.31 34.29 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "7bb8b949-78e3-4980-b9a8-d474b4d1a571")
-		)
-		(instances
-			(project "microgame2"
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180"
-					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 67.31 20.32)
 		(size 40.64 6.35)
 		(fields_autoplaced yes)
@@ -7061,7 +6965,7 @@
 			)
 		)
 		(pin "Foo" input
-			(at 77.47 20.32 90)
+			(at 107.95 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)

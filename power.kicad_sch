@@ -3865,14 +3865,6 @@
 					(reference "Q1")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "Q7")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "Q6")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "Q5")
 					(unit 1)
@@ -3944,14 +3936,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "D1")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "D4")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "D3")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -4045,14 +4029,6 @@
 					(reference "U2")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "U21")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "U17")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "U13")
 					(unit 1)
@@ -4126,14 +4102,6 @@
 					(reference "R2")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "R37")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "R32")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "R27")
 					(unit 1)
@@ -4201,14 +4169,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR010")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0128")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR086")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -4284,14 +4244,6 @@
 					(reference "C6")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C45")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C37")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C29")
 					(unit 1)
@@ -4359,14 +4311,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR011")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0134")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR092")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -4442,14 +4386,6 @@
 					(reference "R3")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "R39")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "R34")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "R29")
 					(unit 1)
@@ -4517,14 +4453,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR014")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0141")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR099")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -4600,14 +4528,6 @@
 					(reference "C7")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C47")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C39")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C31")
 					(unit 1)
@@ -4677,14 +4597,6 @@
 					(reference "#PWR012")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0137")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR095")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "#PWR072")
 					(unit 1)
@@ -4752,14 +4664,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR013")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0140")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR098")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -4847,14 +4751,6 @@
 					(reference "U3")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "U19")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "U15")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "U11")
 					(unit 1)
@@ -4928,14 +4824,6 @@
 					(reference "C8")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C41")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C33")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C25")
 					(unit 1)
@@ -5005,14 +4893,6 @@
 					(reference "#PWR017")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0126")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR084")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "#PWR061")
 					(unit 1)
@@ -5080,14 +4960,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR016")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0124")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR082")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -5163,14 +5035,6 @@
 					(reference "C9")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C43")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C35")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C27")
 					(unit 1)
@@ -5240,14 +5104,6 @@
 					(reference "#PWR019")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0131")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR089")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "#PWR066")
 					(unit 1)
@@ -5315,14 +5171,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR018")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0129")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR087")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -5428,14 +5276,6 @@
 					(reference "U5")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "U22")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "U18")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "U14")
 					(unit 1)
@@ -5503,14 +5343,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR031")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0142")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR0100")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -5586,14 +5418,6 @@
 					(reference "R9")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "R40")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "R35")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "R30")
 					(unit 1)
@@ -5661,14 +5485,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR032")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0143")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR0120")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -5744,14 +5560,6 @@
 					(reference "R10")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "R41")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "R36")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "R31")
 					(unit 1)
@@ -5821,14 +5629,6 @@
 					(reference "#PWR033")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0144")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR0121")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "#PWR079")
 					(unit 1)
@@ -5896,14 +5696,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR030")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0139")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR097")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -5979,14 +5771,6 @@
 					(reference "C14")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C48")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C40")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C32")
 					(unit 1)
@@ -6054,14 +5838,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR029")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0138")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR096")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -6137,14 +5913,6 @@
 					(reference "C13")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C46")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C38")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C30")
 					(unit 1)
@@ -6212,14 +5980,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR028")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0136")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR094")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -6293,14 +6053,6 @@
 					(reference "R8")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "R38")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "R33")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "R28")
 					(unit 1)
@@ -6368,14 +6120,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR0119")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0133")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR091")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -6451,14 +6195,6 @@
 					(reference "J2")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "J6")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "J5")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "J4")
 					(unit 1)
@@ -6528,14 +6264,6 @@
 					(reference "#PWR054")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0135")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR093")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "#PWR070")
 					(unit 1)
@@ -6603,14 +6331,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR0101")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0122")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR080")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -6698,14 +6418,6 @@
 					(reference "U10")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "U20")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "U16")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "U12")
 					(unit 1)
@@ -6775,14 +6487,6 @@
 					(reference "#PWR0102")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0123")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR081")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "#PWR058")
 					(unit 1)
@@ -6850,14 +6554,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR0103")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0127")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR085")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -6933,14 +6629,6 @@
 					(reference "C19")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C42")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C34")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C26")
 					(unit 1)
@@ -7010,14 +6698,6 @@
 					(reference "#PWR0104")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0125")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR083")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "#PWR060")
 					(unit 1)
@@ -7085,14 +6765,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR0105")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0130")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR088")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
@@ -7168,14 +6840,6 @@
 					(reference "C20")
 					(unit 1)
 				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "C44")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "C36")
-					(unit 1)
-				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
 					(reference "C28")
 					(unit 1)
@@ -7243,14 +6907,6 @@
 			(project "microgame2"
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/00000000-0000-0000-0000-00005f16986d"
 					(reference "#PWR0106")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/2f48a2b3-88d4-4c4a-a2a0-f3a484c9017a"
-					(reference "#PWR0132")
-					(unit 1)
-				)
-				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/329e0230-107d-464b-9953-d531477270e7"
-					(reference "#PWR090")
 					(unit 1)
 				)
 				(path "/ebfd9da1-8e1c-4303-a1cc-72875a794180/41c9b4c8-6a6f-4174-a2de-ba76aaffb320"
